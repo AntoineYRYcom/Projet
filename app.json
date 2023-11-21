@@ -1,0 +1,16 @@
+{
+    "id": "9bbca9aa-a94c-4943-9997-c6df022f4ff8",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Antoine",
+        "homepage": "Antoine",
+        "support": "Antoine"
+    },
+    "name": "Bonjour",
+    "nameSlug": "bonjour",
+    "classFile": "BonjourApp.ts",
+    "description": "Une application qui me répond Bonjour",
+    "implements": []
+}
